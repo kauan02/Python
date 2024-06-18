@@ -24,7 +24,7 @@ After that you will be able to start using product-manager
 
 ### Installing
 
-First you have to install
+First you have to install python
 
 ```
 python setup.py install
