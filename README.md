@@ -55,7 +55,7 @@ http://127.0.0.1:8000/docs
 
 ### Adding products
 
-Click at "Post" and "Try it out"
+Click on "Post" and "Try it out"
 
 Now you can add any product you want, just replacing 'string' with the name of the product and '0' with the price.
-Click at "Execute" and the product will be in the "jason database"
+Click on "Execute" and the product will be in the "jason database"
