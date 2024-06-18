@@ -2,7 +2,7 @@
 
 A program to add, delete and edit products in a internal database using .json
 
-Obs: At moment just add products in.
+Obs: At moment just add products.
 
 ## Getting Started
 
