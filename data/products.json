@@ -1,0 +1,12 @@
+{
+    "products": 
+    [
+        {"name": "Gtx 1650", "price": 900.0},
+        {"name": "Rtx 2060", "price": 1200.0},
+        {"name": "Rtx 3060", "price": 1900.0},
+        {"name": "Rtx 4060", "price": 2800.0},
+        {"name": "Rtx 4090", "price": 12800.0},
+        {"name": "Rx 570", "price": 820.0},
+        {"name": "Rx 580", "price": 900.0}
+    ]
+}
